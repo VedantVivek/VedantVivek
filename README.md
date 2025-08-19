@@ -18,16 +18,13 @@ I love solving real-world problems using technology and continuously improving m
 
 ---
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](YOUR_TWITTER)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](YOUR_LEETCODE)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](YOUR_CODECHEF)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](YOUR_HACKERRANK)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](YOUR_GFG)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/vedant-vivek-2063aa279/))  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)]([YOUR_LEETCODE](https://leetcode.com/u/comeback28/))   
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)]([YOUR_GFG](https://www.geeksforgeeks.org/user/vedantvixfkm/))  
 
 ---
 
 ## 💻 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,nextjs,nodejs,react,express,git,html,js,ts,mongodb,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,nextjs,nodejs,react,express,git,html,js,ts,tailwind,bootstrap" />
 </p>
