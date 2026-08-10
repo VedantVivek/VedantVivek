@@ -146,7 +146,7 @@ Bachelor of Technology — Electronics & Communication Engineering
 </a>
 
 <a href="mailto:vedantvivek496@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/vedantvivek496@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
