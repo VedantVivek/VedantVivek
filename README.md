@@ -132,9 +132,8 @@ Responsive real estate web application with interactive property listings, reusa
 Bachelor of Technology — Electronics & Communication Engineering  
 **2022 – 2026**
 
----
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 
@@ -146,21 +145,11 @@ Bachelor of Technology — Electronics & Communication Engineering
   <img src="https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/vedantvixfkm" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
 <a href="mailto:vedantvivek496@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
-
----
 
 ## GitHub Activity
 
