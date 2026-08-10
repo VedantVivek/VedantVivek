@@ -134,25 +134,39 @@ Bachelor of Technology — Electronics & Communication Engineering
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Vivek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-vivek-2063aa279/)
+<p align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantVivek)
+<a href="https://www.linkedin.com/in/vedant-vivek-2063aa279/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Vivek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_PROFILE_URL)
+<a href="https://github.com/VedantVivek" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_PROFILE_URL)
+<a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantvivek496@gmail.com)
+<a href="https://www.geeksforgeeks.org/profile/vedantvixfkm" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
+<a href="mailto:vedantvivek496@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantVivek&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantVivek&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 </p>
 
+---
+
+## GitHub Activity
+
+- Building projects using **Power BI, Python, TypeScript, JavaScript, and SQL**
+- Working on **Data Analytics and Business Intelligence**
+- Exploring **Test Automation, API Testing, and Software Quality Engineering**
+- Continuously improving through projects, problem solving, and real-world experience
 
 ### "Turning business problems into technology and data-driven solutions."
