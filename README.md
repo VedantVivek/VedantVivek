@@ -1,6 +1,6 @@
 # Hi, I'm Vedant Vivek 
 
-### Software Quality Engineer @ Zinnia | Business Analysis | Data Analytics | Product Thinking
+### Software Quality Engineer @ Zinnia | Ex-Business Analyst @ Zinnia | Data Analytics | Product Thinking | Problem Solving
 
 I'm a technology professional with experience across **Software Quality Engineering, Business Analysis, Data Analytics, and Full-Stack Development**.
 
@@ -137,15 +137,22 @@ Bachelor of Technology — Electronics & Communication Engineering
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Vivek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-vivek-2063aa279/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantVivek)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_PROFILE_URL)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_PROFILE_URL)
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantvivek496@gmail.com)
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantVivek&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantVivek&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantVivek&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantVivek&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+</p>
 
 
 ### "Turning business problems into technology and data-driven solutions."
