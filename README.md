@@ -2,7 +2,7 @@
 
 # Hi, I'm Vedant Vivek 
 
-### SDET @ Zinnia | Full-Stack Developer | Ex–Business Analyst @ Zinnia | Test Automation & Data-Driven Engineering
+### Software Quality Engineer @ Zinnia | SDET | Full-Stack Developer | Ex–Business Analyst @ Zinnia | Test Automation & Data-Driven Engineering
 
 **Building systems that don't break — and the automation that proves it.**
 
@@ -21,7 +21,7 @@ I got into SDET work almost by accident and stayed because I liked **breaking th
 
 I started as a **Business Analyst Intern at Zinnia**, writing user stories and sitting in on the calls where product decisions actually got made. That's where a habit stuck with me: I ask **why** a feature exists before I check **how** it works.
 
-Today, I'm an **SDET at Zinnia**, building automation frameworks and CI-integrated test pipelines for enterprise-scale insurance policy and annuity platforms engineering the systems that catch regressions before they ever reach production, not just running manual test cases.
+Today, I'm an **Software Quality Engineer at Zinnia**, building automation frameworks and CI-integrated test pipelines for enterprise-scale insurance policy and annuity platforms engineering the systems that catch regressions before they ever reach production, not just running manual test cases.
 
 **A few things I've engineered:**
 
