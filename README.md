@@ -34,7 +34,7 @@ What sets my SDET work apart is that I don't just automate tests I **build the a
 
 **Right now**, I'm going deeper into **CI/CD-driven automation and AI-assisted testing** self-healing locators, smarter test maintenance, fewer flaky tests while containerizing test environments with **Docker** and expanding pipelines with **GitHub Actions**. Longer term, I want to grow past building pipelines into shaping how teams think about **testability from day one**, not bolting it on after.
 
-> 💬 If you're hiring for an SDET who thinks past the test script writes production-quality code, understands the systems being tested from the inside, and ships automation that scales let's talk.
+>  If you're hiring for an SDET who thinks past the test script writes production-quality code, understands the systems being tested from the inside, and ships automation that scales let's talk.
 
 ---
 
@@ -122,7 +122,7 @@ Software Development Engineering in Test (SDET) &nbsp;•&nbsp; Full-Stack Devel
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 
 - Building scalable, CI/CD-driven test automation frameworks for enterprise systems
 - Applying AI to testing self-healing locators, smarter maintenance, fewer flaky tests
