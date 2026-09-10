@@ -47,23 +47,16 @@ Outside work, I build full-stack products end to end — real auth, real payment
 
 ## Tech Stack
 
-**Test Automation**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge)
-
-**AI-Assisted QA**
-![Self-Healing Locators](https://img.shields.io/badge/Self--Healing%20Locators-8A2BE2?style=for-the-badge) ![Flaky Test Reduction](https://img.shields.io/badge/Flaky--Test%20Reduction-8A2BE2?style=for-the-badge) ![LLM-Assisted Testing](https://img.shields.io/badge/LLM--Assisted%20Testing-8A2BE2?style=for-the-badge)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Full-Stack**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**CI/CD & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Business & Process**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%2FScrum-172B4D?style=for-the-badge)
+| Category | Tools |
+|---|---|
+| **Test Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge) ![REST Assured](https://img.shields.io/badge/REST_Assured-25A162?style=for-the-badge) |
+| **AI-Assisted QA** | ![Self-Healing Locators](https://img.shields.io/badge/Self--Healing%20Locators-8A2BE2?style=for-the-badge) ![Flaky Test Reduction](https://img.shields.io/badge/Flaky--Test%20Reduction-8A2BE2?style=for-the-badge) ![LLM-Assisted Testing](https://img.shields.io/badge/LLM--Assisted%20Testing-8A2BE2?style=for-the-badge) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **APIs & Protocols** | ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+| **Full-Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **CI/CD & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Engineering Fundamentals** | ![System Design](https://img.shields.io/badge/System_Design-4B0082?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-4B0082?style=for-the-badge) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-4B0082?style=for-the-badge) |
+| **Business & Process** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%2FScrum-172B4D?style=for-the-badge) |
 
 <br>
 
