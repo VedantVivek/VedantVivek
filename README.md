@@ -24,7 +24,7 @@
 
 I got into QA by accident and stayed because I liked breaking things more than building them.
 
-I started as a Business Analyst Intern at Zinnia, writing user stories and sitting in on the calls where product decisions actually got made. That's where the habit came from I ask why a feature exists before I check how it works. Now I'm an SDET at Zinnia, building and owning automation for production insurance and annuity platforms, in a regulated space where a missed regression can mean more than a cosmetic bug.
+I started as a Business Analyst Intern at Zinnia, writing user stories and sitting in on the calls where product decisions actually got made. That's where the habit came from — I ask *why* a feature exists before I check *how* it works. Now I'm an SDET at Zinnia, building and owning automation for production insurance and annuity platforms, in a regulated space where a missed regression can mean more than a cosmetic bug.
 
 **What I own:**
 
@@ -41,12 +41,18 @@ Outside work, I build full-stack products end to end — real auth, real payment
 
 <br>
 
+## How I Think About Testing
+
+A framework only pays off if someone other than its author can extend it — so I optimize for readability and clear failure messages over cleverness. I'd rather have 10 fewer tests that catch real regressions than 100 that just pass consistently. And flaky tests aren't a tooling problem first — they're usually a sign the test (or the system) wasn't designed with determinism in mind, so that's where I look first before reaching for retries.
+
+<br>
+
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Event Dazzle**](https://github.com/VedantVivek/Event_Finder) | Event discovery & ticket booking — live inventory via Ticketmaster/Bushdrum, Stripe + UPI payments, OTP auth, server-side payment verification | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) |
-| [**LocalEstate**](https://github.com/VedantVivek/localEstate) | Real estate marketplace — Express REST backend, token auth with password hashing, rate-limited routes, search/filter/compare, mortgage calculator | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| [**Event Dazzle**](https://github.com/VedantVivek/Event_Finder) | Event discovery & ticket booking — zone-based live inventory, Stripe + UPI payments verified server-side (so a client can't spoof a successful payment), OTP auth, Ticketmaster/Bushdrum API integrations | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) |
+| [**LocalEstate**](https://github.com/VedantVivek/localEstate) | Real estate marketplace — Express REST backend, hashed + token-based auth, rate-limited routes to prevent abuse, search/filter/compare, server-side mortgage calculations | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | [**Blink-IT Sales Analysis**](https://github.com/VedantVivek/Blink-IT-analysis-in-Python) | Retail EDA — data cleaning through KPI and trend analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [**Power BI Dashboards**](https://github.com/VedantVivek/Blink-It-Dashboard) | Sales, outlet & customer-insight dashboards — [Zepto](https://github.com/VedantVivek/Zepto-Sales-Analysis-PowerBI), Blink-It, [AdventureWorks](https://github.com/VedantVivek/Adventure-Sales-Dashboard) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
