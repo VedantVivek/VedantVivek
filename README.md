@@ -9,6 +9,13 @@
 <a href="mailto:vedantvivek496@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
+<br><br>
+
+![Manual Effort Cut](https://img.shields.io/badge/Manual_Validation_Effort-%E2%88%9250%25-success?style=for-the-badge)
+![UI Fields](https://img.shields.io/badge/UI_Fields_Validated-900%2B-blueviolet?style=for-the-badge)
+![APIs Owned](https://img.shields.io/badge/API_Endpoints_Owned-10%2B-informational?style=for-the-badge)
+![Browser Coverage](https://img.shields.io/badge/Browser_Coverage-3%2B_Environments-orange?style=for-the-badge)
+
 </div>
 
 <br>
