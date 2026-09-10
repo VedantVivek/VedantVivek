@@ -17,24 +17,24 @@
 
 ##  About Me
 
-I got into SDET work almost by accident — and stayed because I liked **breaking things** more than just building them.
+I got into SDET work almost by accident and stayed because I liked **breaking things** more than just building them.
 
 I started as a **Business Analyst Intern at Zinnia**, writing user stories and sitting in on the calls where product decisions actually got made. That's where a habit stuck with me: I ask **why** a feature exists before I check **how** it works.
 
-Today, I'm an **SDET at Zinnia**, building automation frameworks and CI-integrated test pipelines for enterprise-scale insurance policy and annuity platforms — engineering the systems that catch regressions before they ever reach production, not just running manual test cases.
+Today, I'm an **SDET at Zinnia**, building automation frameworks and CI-integrated test pipelines for enterprise-scale insurance policy and annuity platforms engineering the systems that catch regressions before they ever reach production, not just running manual test cases.
 
 **A few things I've engineered:**
 
 -  Architected an **API regression framework** across 10+ REST endpoints (auth, payload integrity, core workflows), cutting manual validation effort by **50%** and running fully inside CI.
 -  Built a **data-driven, spec-driven validation engine** in Playwright + TypeScript that parses conditional rules from Excel and checks **900+ UI fields** against live data across multiple insurance carriers.
--  Run **cross-browser regression** in Selenium and Python across 3+ environments — usually where the edge cases everyone else misses show up.
+-  Run **cross-browser regression** in Selenium and Python across 3+ environments usually where the edge cases everyone else misses show up.
 -  As a BA intern, validated **15+ API endpoints** with Postman and SQL, and ran **JMeter** performance checks ahead of UAT.
 
-What sets my SDET work apart is that I don't just automate tests — I **build the applications I test**. That full-stack grounding means I understand system architecture, auth flows, and API contracts well enough to design automation that catches real bugs, not just surface-level regressions.
+What sets my SDET work apart is that I don't just automate tests I **build the applications I test**. That full-stack grounding means I understand system architecture, auth flows, and API contracts well enough to design automation that catches real bugs, not just surface-level regressions.
 
-**Right now**, I'm going deeper into **CI/CD-driven automation and AI-assisted testing** — self-healing locators, smarter test maintenance, fewer flaky tests — while containerizing test environments with **Docker** and expanding pipelines with **GitHub Actions**. Longer term, I want to grow past building pipelines into shaping how teams think about **testability from day one**, not bolting it on after.
+**Right now**, I'm going deeper into **CI/CD-driven automation and AI-assisted testing** self-healing locators, smarter test maintenance, fewer flaky tests while containerizing test environments with **Docker** and expanding pipelines with **GitHub Actions**. Longer term, I want to grow past building pipelines into shaping how teams think about **testability from day one**, not bolting it on after.
 
-> 💬 If you're hiring for an SDET who thinks past the test script — writes production-quality code, understands the systems being tested from the inside, and ships automation that scales — let's talk.
+> 💬 If you're hiring for an SDET who thinks past the test script writes production-quality code, understands the systems being tested from the inside, and ships automation that scales let's talk.
 
 ---
 
@@ -60,7 +60,7 @@ What sets my SDET work apart is that I don't just automate tests — I **build t
 
 ##  Full-Stack Engineering
 
-Beyond test automation, I design and ship complete full-stack applications — front to back, auth to payments — to stay close to the code I test.
+Beyond test automation, I design and ship complete full-stack applications front to back, auth to payments to stay close to the code I test.
 
 | Project | What I Built | Stack |
 |---|---|---|
@@ -125,7 +125,7 @@ Software Development Engineering in Test (SDET) &nbsp;•&nbsp; Full-Stack Devel
 ## 🌱 Current Focus
 
 - Building scalable, CI/CD-driven test automation frameworks for enterprise systems
-- Applying AI to testing — self-healing locators, smarter maintenance, fewer flaky tests
+- Applying AI to testing self-healing locators, smarter maintenance, fewer flaky tests
 - Containerizing test environments with Docker and expanding GitHub Actions pipelines
 - Shipping full-stack products end-to-end to keep automation grounded in real system design
 - Growing from "building pipelines" into shaping testability strategy from day one
