@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vedant Vivek
+# Hi, I'm Vedant Vivek
 
 ### SDET @ Zinnia · Ex-Business Analyst · Full-Stack Builder
 
