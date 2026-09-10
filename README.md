@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Vedant Vivek 👋
+# Hi, I'm Vedant Vivek 
 
-### SDET @ Zinnia | Full-Stack Developer | Ex–Business Analyst | Test Automation & Data-Driven Engineering
+### SDET @ Zinnia | Full-Stack Developer | Ex–Business Analyst @ Zinnia | Test Automation & Data-Driven Engineering
 
 **Building systems that don't break — and the automation that proves it.**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I got into SDET work almost by accident — and stayed because I liked **breaking things** more than just building them.
 
@@ -25,10 +25,10 @@ Today, I'm an **SDET at Zinnia**, building automation frameworks and CI-integrat
 
 **A few things I've engineered:**
 
-- 🏗️ Architected an **API regression framework** across 10+ REST endpoints (auth, payload integrity, core workflows), cutting manual validation effort by **50%** and running fully inside CI.
-- 🧩 Built a **data-driven, spec-driven validation engine** in Playwright + TypeScript that parses conditional rules from Excel and checks **900+ UI fields** against live data across multiple insurance carriers.
-- 🌐 Run **cross-browser regression** in Selenium and Python across 3+ environments — usually where the edge cases everyone else misses show up.
-- 📋 As a BA intern, validated **15+ API endpoints** with Postman and SQL, and ran **JMeter** performance checks ahead of UAT.
+-  Architected an **API regression framework** across 10+ REST endpoints (auth, payload integrity, core workflows), cutting manual validation effort by **50%** and running fully inside CI.
+-  Built a **data-driven, spec-driven validation engine** in Playwright + TypeScript that parses conditional rules from Excel and checks **900+ UI fields** against live data across multiple insurance carriers.
+-  Run **cross-browser regression** in Selenium and Python across 3+ environments — usually where the edge cases everyone else misses show up.
+-  As a BA intern, validated **15+ API endpoints** with Postman and SQL, and ran **JMeter** performance checks ahead of UAT.
 
 What sets my SDET work apart is that I don't just automate tests — I **build the applications I test**. That full-stack grounding means I understand system architecture, auth flows, and API contracts well enough to design automation that catches real bugs, not just surface-level regressions.
 
@@ -38,9 +38,9 @@ What sets my SDET work apart is that I don't just automate tests — I **build t
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏢 Zinnia — Insurance & Annuity Technology Platform
+###  Zinnia — Insurance & Annuity Technology Platform
 
 **Software Development Engineer in Test (SDET)** · *Jul 2026 – Present*
 - Architect and build automated API and UI regression frameworks using Playwright, TypeScript, Selenium, Postman, Python, and SQL for business-critical insurance platforms
@@ -58,18 +58,18 @@ What sets my SDET work apart is that I don't just automate tests — I **build t
 
 ---
 
-## 🚀 Full-Stack Engineering
+##  Full-Stack Engineering
 
 Beyond test automation, I design and ship complete full-stack applications — front to back, auth to payments — to stay close to the code I test.
 
 | Project | What I Built | Stack |
 |---|---|---|
-| 🎟️ [**Event Dazzle**](https://github.com/VedantVivek/Event_Finder) | Full-stack event discovery & ticket-booking platform: Ticketmaster/Bushdrum API integrations, live event feeds, location-based search, infinite scroll, zone-based ticket inventory, **Stripe card + UPI QR payments**, email OTP auth, server-side payment verification | Next.js · TypeScript · MongoDB · Clerk · Stripe |
-| 🏠 [**LocalEstate**](https://github.com/VedantVivek/localEstate) | Real-estate marketplace with an Express.js REST backend: property search/filtering/sorting, favorites, comparisons, tour scheduling, reviews, **token-based auth with password hashing**, protected + rate-limited API routes, Nodemailer notifications, server-side mortgage calculations | JavaScript · Node.js · Express.js · MongoDB · REST APIs |
+|  [**Event Dazzle**](https://github.com/VedantVivek/Event_Finder) | Full-stack event discovery & ticket-booking platform: Ticketmaster/Bushdrum API integrations, live event feeds, location-based search, infinite scroll, zone-based ticket inventory, **Stripe card + UPI QR payments**, email OTP auth, server-side payment verification | Next.js · TypeScript · MongoDB · Clerk · Stripe |
+|  [**LocalEstate**](https://github.com/VedantVivek/localEstate) | Real-estate marketplace with an Express.js REST backend: property search/filtering/sorting, favorites, comparisons, tour scheduling, reviews, **token-based auth with password hashing**, protected + rate-limited API routes, Nodemailer notifications, server-side mortgage calculations | JavaScript · Node.js · Express.js · MongoDB · REST APIs |
 
 **Why it matters for SDET work:** shipping auth systems, payment flows, and rate-limited APIs myself means my test automation is built with real knowledge of where systems actually break — not just what the spec says should happen.
 
-### 📊 Data & Analytics Projects
+###  Data & Analytics Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -80,7 +80,7 @@ Beyond test automation, I design and ship complete full-stack applications — f
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Skills & Tools |
 |---|---|
@@ -95,7 +95,7 @@ Beyond test automation, I design and ship complete full-stack applications — f
 
 ---
 
-## 📊 Engineering Snapshot
+##  Engineering Snapshot
 
 | Metric | Impact |
 |---|---|
@@ -107,7 +107,7 @@ Beyond test automation, I design and ship complete full-stack applications — f
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Jaypee Institute of Information Technology, Noida**
 B.Tech in Electronics & Communication Engineering · 2022 – 2026 · CGPA 7.96/10
@@ -116,7 +116,7 @@ B.Tech in Electronics & Communication Engineering · 2022 – 2026 · CGPA 7.96/
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 Software Development Engineering in Test (SDET) &nbsp;•&nbsp; Full-Stack Development &nbsp;•&nbsp; AI-Assisted Test Automation &nbsp;•&nbsp; CI/CD & DevOps &nbsp;•&nbsp; Business Analysis & Product Strategy &nbsp;•&nbsp; Data Analytics & Visualization
 
@@ -134,7 +134,7 @@ Software Development Engineering in Test (SDET) &nbsp;•&nbsp; Full-Stack Devel
 
 <div align="center">
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Vivek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-vivek-2063aa279/)
 [![GitHub](https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantVivek)
