@@ -1,118 +1,64 @@
-<div align="center">
+# Vedant Vivek
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Vedant%20Vivek&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Ex-Business%20Analyst&descAlignY=58&descSize=20" width="100%"/>
+SDET @ Zinnia · Ex-Business Analyst on the same team · Also ship full-stack apps on the side
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Building+automation+that+catches+bugs+before+prod;Full-stack+builder+%7C+SDET+%7C+Ex-Business+Analyst;Shipping+900%2B+field+validations+at+Zinnia" alt="Typing SVG" />
+[LinkedIn](https://www.linkedin.com/in/vedant-vivek-2063aa279/) · [GitHub](https://github.com/VedantVivek) · [Email](mailto:vedantvivek496@gmail.com) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/vedantvixfkm)
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-vivek-2063aa279/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantVivek)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantvivek496@gmail.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GfG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vedantvixfkm)
+## About
 
-</div>
+I got into QA by accident and stayed because I liked breaking things more than building them.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%25" width="100%"/>
+I started as a Business Analyst Intern at Zinnia, writing user stories and sitting in on the calls where product decisions actually got made. That's where the habit came from — I ask *why* a feature exists before I check *how* it works. Now I'm an SDET at Zinnia, building and owning automation for production insurance and annuity platforms, in a regulated space where a missed regression can mean more than a cosmetic bug.
 
-##  About
+**What I own:**
 
-**SDET at Zinnia**, building CI-integrated automation for enterprise insurance & annuity platforms. Formerly a Business Analyst on the same team — which is why I test with a product mindset, not just a script.
+- **API regression framework** across 10+ business-critical endpoints (auth, payload integrity, core workflows) — cut manual validation effort by 50%, runs inside CI ahead of every merge
+- **Spec-driven validation engine** in Playwright + TypeScript, parsing conditional business rules from Excel to check 900+ UI fields against live data across multiple insurance carriers
+- **Cross-browser regression** in Selenium + Python across 3+ environments, catching the edge cases single-browser suites miss
+- Earlier, as a BA intern: turned requirements into user stories for 8+ enhancements, then validated the resulting APIs myself with Postman and SQL, and ran JMeter checks ahead of UAT
 
-```
-  Architected an API regression framework — 10+ endpoints, 50% less manual validation, running in CI
-  Built a spec-driven validation engine (Playwright + TypeScript) — 900+ UI fields, live carrier data
-  Run cross-browser regression (Selenium + Python) across 3+ environments
-  Ship full-stack products end-to-end — auth, payments, rate-limited APIs — before testing them
-```
+Outside work, I build full-stack products end to end — real auth, real payment logic — which is honestly where most of my testing instincts come from.
 
-> Currently leveling up in **AI-assisted testing** (self-healing locators, smarter maintenance) and **Docker + GitHub Actions** for CI/CD.
+**Where I'm headed:** deeper into CI/CD-driven automation, practical AI in testing (self-healing locators, fewer flaky tests), Docker for test environments, and eventually shaping how a team designs for testability from day one, rather than joining after the fact.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%25" width="100%"/>
+If your team needs an SDET who ships production-quality automation and understands the systems being tested from the inside — I'd like to hear about it.
 
-##  Projects
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Projects
 
-###  [Event Dazzle](https://github.com/VedantVivek/Event_Finder)
-Event discovery & ticket booking — live inventory, Stripe + UPI payments, OTP auth, external API integrations
+| Project | What it does | Stack |
+|---|---|---|
+| [**Event Dazzle**](https://github.com/VedantVivek/Event_Finder) | Event discovery & ticket booking — live inventory via Ticketmaster/Bushdrum, Stripe + UPI payments, OTP auth, server-side payment verification | `Next.js` `TypeScript` `MongoDB` `Clerk` `Stripe` |
+| [**LocalEstate**](https://github.com/VedantVivek/localEstate) | Real estate marketplace — Express REST backend, token auth with password hashing, rate-limited routes, search/filter/compare, mortgage calculator | `Node.js` `Express.js` `MongoDB` `JavaScript` |
+| [**Blink-IT Sales Analysis**](https://github.com/VedantVivek/Blink-IT-analysis-in-Python) | Retail EDA — data cleaning through KPI and trend analysis | `Python` `Jupyter` |
+| [**Power BI Dashboards**](https://github.com/VedantVivek/Blink-It-Dashboard) | Sales, outlet & customer-insight dashboards — [Zepto](https://github.com/VedantVivek/Zepto-Sales-Analysis-PowerBI), Blink-It, [AdventureWorks](https://github.com/VedantVivek/Adventure-Sales-Dashboard) | `Power BI` |
 
-`Next.js` `TypeScript` `MongoDB` `Clerk` `Stripe`
+---
 
-</td>
-<td width="50%" valign="top">
+## Tech Stack
 
-###  [LocalEstate](https://github.com/VedantVivek/localEstate)
-Real-estate marketplace — token auth, rate-limited REST API, search/filter/compare, mortgage calculator
+| Category | Tools |
+|---|---|
+| **Test Automation** | Playwright · Selenium · Postman · TestNG · REST Assured · Apache JMeter |
+| **AI-Assisted QA** | Self-healing locators · flaky-test reduction · exploring LLM-assisted test generation |
+| **Languages** | Python · TypeScript · JavaScript · SQL · C++ |
+| **Full-Stack** | React · Next.js · Node.js · Express.js · MongoDB |
+| **CI/CD & Tools** | Docker · GitHub Actions · Git |
+| **Business & Process** | Requirements analysis · user stories · Agile/Scrum · JIRA · Confluence |
 
-`Node.js` `Express.js` `MongoDB` `JavaScript`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  [Blink-IT Sales Analysis](https://github.com/VedantVivek/Blink-IT-analysis-in-Python)
-Retail EDA — data cleaning, KPI tracking, trend analysis
-
-`Python` `Jupyter`
-
-</td>
-<td width="50%" valign="top">
-
-###  [Power BI Dashboards](https://github.com/VedantVivek/Blink-It-Dashboard)
-Sales, outlet & customer-insight dashboards — Zepto, Blink-It, AdventureWorks
-
-`Power BI`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%25" width="100%"/>
-
-##  Skills
-
-<div align="left">
-
-**Test Automation**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-E34F26?style=flat-square)
-
-**AI-Driven QA**
-![AI Testing](https://img.shields.io/badge/Self--Healing%20Locators-8A2BE2?style=flat-square) ![Flaky Test Reduction](https://img.shields.io/badge/Flaky--Test%20Reduction-8A2BE2?style=flat-square) ![LLM Testing](https://img.shields.io/badge/LLM--Assisted%20Testing-8A2BE2?style=flat-square)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Full-Stack**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**CI/CD & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Business & Process**
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Requirements](https://img.shields.io/badge/Requirements%20Analysis-172B4D?style=flat-square)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%25" width="100%"/>
-
-##  Background
+## Background
 
 | | |
 |---|---|
-| **Role** | SDET @ Zinnia *(Jul 2026–Present)* · Business Analyst Intern @ Zinnia *(Jan–Jun 2026)* |
-| **Education** | B.Tech, Electronics & Communication — JIIT Noida (2022–2026) · CGPA 7.96/10 |
+| **Experience** | SDET @ Zinnia, Jul 2026–Present · Business Analyst Intern @ Zinnia, Jan–Jun 2026 |
+| **Education** | B.Tech, Electronics & Communication — JIIT Noida, 2022–2026, CGPA 7.96/10 |
 | **Certifications** | Data Analytics Essentials (Cisco) · Data Analytics Job Simulation (Deloitte) |
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer&text=Open%20to%20SDET%20%2F%20QA%20Engineering%20Roles&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
- [vedantvivek496@gmail.com](mailto:vedantvivek496@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vedant-vivek-2063aa279/) &nbsp;·&nbsp; [GitHub](https://github.com/VedantVivek)
-
-</div>
+**Open to SDET / QA Engineering roles at teams that take quality seriously.** [vedantvivek496@gmail.com](mailto:vedantvivek496@gmail.com)
