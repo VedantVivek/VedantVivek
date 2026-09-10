@@ -9,20 +9,14 @@
 <a href="mailto:vedantvivek496@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
+<br><br>
+
+![Manual Effort Cut](https://img.shields.io/badge/Manual_Validation_Effort-%E2%88%9250%25-success?style=for-the-badge)
+![UI Fields](https://img.shields.io/badge/UI_Fields_Validated-900%2B-blueviolet?style=for-the-badge)
+![APIs Owned](https://img.shields.io/badge/API_Endpoints_Owned-10%2B-informational?style=for-the-badge)
+![Browser Coverage](https://img.shields.io/badge/Browser_Coverage-3%2B_Environments-orange?style=for-the-badge)
+
 </div>
-
-<br>
-
-```
-$ whoami
-SDET at Zinnia. Started on the business side, moved to breaking things for a living.
-
-$ pwd
-/insurance & annuity platforms /production systems /regulated environment
-
-$ currently_building
-CI-integrated automation · AI-assisted testing · full-stack side projects
-```
 
 <br>
 
@@ -34,10 +28,10 @@ I started as a Business Analyst Intern at Zinnia, writing user stories and sitti
 
 **What I own:**
 
-- **API regression framework** across 10+ business-critical endpoints (auth, payload integrity, core workflows) — cut manual validation effort by **50%**, runs inside CI ahead of every merge
-- **Spec-driven validation engine** in Playwright + TypeScript, parsing conditional business rules from Excel to check **900+ UI fields** against live data across multiple insurance carriers
-- **Cross-browser regression** in Selenium + Python across **3+ environments**, catching the edge cases single-browser suites miss
-- Earlier, as a BA intern: turned requirements into user stories for **8+ enhancements**, validated the resulting APIs myself with Postman and SQL, and ran JMeter checks ahead of UAT
+- **API regression framework** across 10+ business-critical endpoints (auth, payload integrity, core workflows) — cut manual validation effort by 50%, runs inside CI ahead of every merge
+- **Spec-driven validation engine** in Playwright + TypeScript, parsing conditional business rules from Excel to check 900+ UI fields against live data across multiple insurance carriers
+- **Cross-browser regression** in Selenium + Python across 3+ environments, catching the edge cases single-browser suites miss
+- Earlier, as a BA intern: turned requirements into user stories for 8+ enhancements, validated the resulting APIs myself with Postman and SQL, and ran JMeter checks ahead of UAT
 
 Outside work, I build full-stack products end to end — real auth, real payment logic — which is honestly where most of my testing instincts come from.
 
