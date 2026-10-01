@@ -3,7 +3,7 @@
 # Hi, I'm Vedant Vivek
 
 <a href="https://github.com/VedantVivek">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SDET+%40+Zinnia;AI-Assisted+Test+Automation;Building+Self-Healing+Frameworks;Ex-Business+Analyst+%C2%B7+Full-Stack+Builder&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=1000&color=2EAD33&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SDET+%40+Zinnia;AI-Assisted+Test+Automation;Building+Self-Healing+Frameworks;Ex-Business+Analyst+%C2%B7+Full-Stack+Builder&font=Fira+Code&center=true&width=800&height=40&duration=3000&pause=1000&color=2EAD33&vCenter=true" />
 </a>
 
 <a href="https://www.linkedin.com/in/vedant-vivek-2063aa279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 
 I got into QA by accident and stayed because I liked breaking things more than building them.
 
-I started as a Business Analyst Intern at Zinnia, writing user stories and sitting in on the calls where product decisions actually got made. That's where the habit came from I ask why a feature exists before I check how it works. Now I'm an SDET at Zinnia, building and owning automation for production insurance and annuity platforms — **in a regulated space where a missed regression can mean more than a cosmetic bug.**
+I started as a Business Analyst Intern at Zinnia, writing user stories and sitting in on the calls where product decisions actually got made. That's where the habit came from — I ask why a feature exists before I check how it works. Now I'm an SDET at Zinnia, building and owning automation for production insurance and annuity platforms — **in a regulated space where a missed regression can mean more than a cosmetic bug.**
 
 **What I own:**
 
