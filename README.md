@@ -8,10 +8,9 @@
 <a href="mailto:vedantvivek496@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Test_Scenarios-700%2B-2EAD33?style=for-the-badge" alt="700+ test scenarios" />
 <img src="https://img.shields.io/badge/Carrier_Forms_Validated-645-2EAD33?style=for-the-badge" alt="645 carrier forms validated" />
+<br>
 <img src="https://img.shields.io/badge/Self--Healing_Mappings-167-2EAD33?style=for-the-badge" alt="167 self-healing mappings" />
 <img src="https://img.shields.io/badge/Automated_Runs-50%2B-2EAD33?style=for-the-badge" alt="50+ automated runs" />
 
