@@ -58,9 +58,9 @@ Zinnia builds technology for the life insurance and annuity industry, which is h
 
 | Project | What it does | Stack |
 |---|---|---|
-| **LocalEstate Playwright Tests**<br>[Code](https://github.com/VedantVivek/localestate-playwright-tests) · [CI](https://github.com/VedantVivek/localestate-playwright-tests/actions) | Public test suite for my LocalEstate app: 24 UI and API tests with Page Objects and fixtures, running on every push through GitHub Actions. Found 2 real bugs in the mortgage API and reported them as [GitHub issues](https://github.com/VedantVivek/localEstate/issues). | Playwright · TypeScript · GitHub Actions |
-| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event discovery and booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | Next.js · TypeScript · Stripe |
-| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API covering properties, favorites, tours, reviews, and mortgage calculations, plus session-based auth and MongoDB persistence on Vercel. | Node.js · Express · MongoDB |
+| **LocalEstate Playwright Tests**<br>[Code](https://github.com/VedantVivek/localestate-playwright-tests) · [CI](https://github.com/VedantVivek/localestate-playwright-tests/actions) | Public test suite for my LocalEstate app: 24 UI and API tests with Page Objects and fixtures, running on every push through GitHub Actions. Found 2 real bugs in the mortgage API and reported them as [GitHub issues](https://github.com/VedantVivek/localEstate/issues). | Playwright<br>TypeScript<br>GitHub Actions |
+| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event discovery and booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | Next.js<br>TypeScript<br>Stripe |
+| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API covering properties, favorites, tours, reviews, and mortgage calculations, plus session-based auth and MongoDB persistence on Vercel. | Node.js<br>Express<br>MongoDB |
 
 ## Background
 
