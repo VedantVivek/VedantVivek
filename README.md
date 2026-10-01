@@ -36,7 +36,7 @@ I joined Zinnia as a Business Analyst Intern before moving into SDET work. That 
 ## How I Approach Quality
 
 - **Test where the risk is.** Check the data and API responses behind a screen, not only what the screen shows.
-- **Design tests to survive change.** Deterministic rules first, AI fallback second, so a UI change doesn't break the suite and a real failure doesn't get hidden.
+- **Design tests to survive change.** A UI change shouldn't break the suite, and a real failure shouldn't get hidden.
 - **Make every run readable.** A report someone else can open and act on is worth more than a green checkmark.
 
 ## Tech Stack
@@ -50,19 +50,15 @@ I joined Zinnia as a Business Analyst Intern before moving into SDET work. That 
 | **Workflow** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%2FScrum-172B4D?style=for-the-badge) |
 | **Fundamentals** | REST APIs · OOP · DBMS · Operating Systems · System Design |
 
-**Currently learning:** Docker for reproducible test environments.
-
-**Next step:** bringing my regression suite into the release process, so every build gets a full automated check before it ships.
+**Up next:** learning Docker for reproducible test environments, and bringing my regression suite into the release process so every build gets a full automated check before it ships.
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **LocalEstate Playwright Tests**<br>[Code](https://github.com/VedantVivek/localestate-playwright-tests) · [CI](https://github.com/VedantVivek/localestate-playwright-tests/actions) | Public test suite for my LocalEstate app: 24 UI and API tests with Page Objects and fixtures, running on every push through GitHub Actions. Found 2 real bugs in the mortgage API and reported them as [GitHub issues](https://github.com/VedantVivek/localEstate/issues). | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event discovery and booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) |
-| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API covering properties, favorites, tours, reviews, and mortgage calculations, plus session-based auth and MongoDB persistence on Vercel. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-Also on my profile: data analysis work in [Python](https://github.com/VedantVivek/Blink-IT-analysis-in-Python) and Power BI ([Blink-It](https://github.com/VedantVivek/Blink-It-Dashboard), [Zepto](https://github.com/VedantVivek/Zepto-Sales-Analysis-PowerBI), [AdventureWorks](https://github.com/VedantVivek/Adventure-Sales-Dashboard)).
+| **LocalEstate Playwright Tests**<br>[Code](https://github.com/VedantVivek/localestate-playwright-tests) · [CI](https://github.com/VedantVivek/localestate-playwright-tests/actions) | Public test suite for my LocalEstate app: 24 UI and API tests with Page Objects and fixtures, running on every push through GitHub Actions. Found 2 real bugs in the mortgage API and reported them as [GitHub issues](https://github.com/VedantVivek/localEstate/issues). | Playwright · TypeScript · GitHub Actions |
+| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event discovery and booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | Next.js · TypeScript · Stripe |
+| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API covering properties, favorites, tours, reviews, and mortgage calculations, plus session-based auth and MongoDB persistence on Vercel. | Node.js · Express · MongoDB |
 
 ## Background
 
