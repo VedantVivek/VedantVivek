@@ -2,7 +2,9 @@
 
 # Hi, I'm Vedant Vivek
 
-### SDET @ Zinnia · Ex-Business Analyst · Full-Stack Builder
+<a href="https://github.com/VedantVivek">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SDET+%40+Zinnia;AI-Assisted+Test+Automation;Building+Self-Healing+Frameworks;Ex-Business+Analyst+%C2%B7+Full-Stack+Builder&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=1000&color=2EAD33&vCenter=true" />
+</a>
 
 <a href="https://www.linkedin.com/in/vedant-vivek-2063aa279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/VedantVivek"><img src="https://img.shields.io/badge/GitHub-VedantVivek-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -81,5 +83,9 @@ Outside work, I build full-stack products end to end — real auth, real payment
 
 **Open to SDET / QA Engineering roles at teams that take quality seriously.**
 [vedantvivek496@gmail.com](mailto:vedantvivek496@gmail.com)
+
+<br><br>
+
+![Snake animation](https://github.com/VedantVivek/VedantVivek/blob/output/github-contribution-grid-snake.svg)
 
 </div>
