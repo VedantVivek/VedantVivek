@@ -9,7 +9,7 @@
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 
 <img src="https://img.shields.io/badge/Test_Scenarios-700%2B-2EAD33?style=for-the-badge" alt="700+ test scenarios" />
-<img src="https://img.shields.io/badge/Carrier_Forms_Validated-645-2EAD33?style=for-the-badge" alt="645 carrier forms validated" />
+<img src="https://img.shields.io/badge/Forms_Validated-645-2EAD33?style=for-the-badge" alt="645 forms validated" />
 <br>
 <img src="https://img.shields.io/badge/Self--Healing_Mappings-167-2EAD33?style=for-the-badge" alt="167 self-healing mappings" />
 <img src="https://img.shields.io/badge/Automated_Runs-50%2B-2EAD33?style=for-the-badge" alt="50+ automated runs" />
@@ -20,11 +20,13 @@
 
 ## About
 
-I'm a Software Quality Engineer (SDET) at Zinnia, building test automation for insurance and annuity platforms. It's a regulated domain, so a missed regression isn't cosmetic. It can mean a failed transaction or a wrong document.
+I'm a Software Quality Engineer (SDET) at Zinnia, where I build UI and API test automation for enterprise platforms. A bug that slips through there can mean a failed transaction or a wrong document, so most of my tests check the data behind the screen, not just the screen.
 
-I joined Zinnia as a Business Analyst Intern before moving into SDET work. That time taught me to ask why a feature exists before testing how it works, and that still shapes what I test first.
+I joined Zinnia as a Business Analyst Intern before moving into SDET work. That's where I picked up the habit of asking why a feature exists before testing how it works.
 
 ## What I Work On at Zinnia
+
+Zinnia builds technology for the life insurance and annuity industry, which is heavily regulated. Most of my work there is checking that what the system produces matches the spec.
 
 - **Playwright + TypeScript framework.** Built a modular, data-driven framework where one test plan drives 700+ scenarios across 4 domains. It runs on demand through Jenkins, so a build can be validated without waiting on manual checks.
 - **SSO and API authentication.** Automated SAML-based SSO and multi-step API authentication, then validated what happens after login: transaction status and generated documents, end to end. This replaced manual verification steps.
@@ -33,11 +35,11 @@ I joined Zinnia as a Business Analyst Intern before moving into SDET work. That 
 
 **Earlier, as a Business Analyst Intern:** turned requirements into 8+ product enhancements across 3+ sprint releases, and worked with QA to validate 15+ API endpoints using Postman and SQL, with JMeter performance checks ahead of UAT.
 
-## How I Approach Quality
+## How I Work
 
-- **Test where the risk is.** Check the data and API responses behind a screen, not only what the screen shows.
-- **Design tests to survive change.** A UI change shouldn't break the suite, and a real failure shouldn't get hidden.
-- **Make every run readable.** A report someone else can open and act on is worth more than a green checkmark.
+- **When a test is flaky, I find the cause.** A UI test that failed on slow cold starts now waits for the real API response instead of a fixed delay.
+- **Failures should explain themselves.** My failed runs keep a trace and a screenshot, so whoever picks one up can debug it without asking me.
+- **I report bugs the way I'd want to receive them.** Each one has steps to reproduce, expected and actual results, and the root cause when I can find it.
 
 ## Tech Stack
 
