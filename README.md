@@ -2,7 +2,7 @@
 
 # Hi, I'm Vedant Vivek
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Quality+Engineer+%40+Zinnia;Playwright+%C2%B7+TypeScript+%C2%B7+API+Automation;AI-Assisted%2C+Self-Healing+Test+Automation&font=Fira+Code&size=20&center=true&vCenter=true&width=700&height=40&duration=3000&pause=1000&color=2EAD33" alt="Software Development Engineer in Test at Zinnia" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer+in+Test+%40+Zinnia;Playwright+%C2%B7+TypeScript+%C2%B7+API+Automation;AI-Assisted%2C+Self-Healing+Test+Automation&font=Fira+Code&size=20&center=true&vCenter=true&width=700&height=40&duration=3000&pause=1000&color=2EAD33" alt="Software Development Engineer in Test at Zinnia" />
 
 <a href="https://www.linkedin.com/in/vedant-vivek-2063aa279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vedantvivek496@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
