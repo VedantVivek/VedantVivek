@@ -9,10 +9,9 @@
 <a href="https://portfolio-nine-gamma-fhnjy5h7jp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-0F6E56?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 
-<img src="https://img.shields.io/badge/Test_Scenarios-700%2B-2EAD33?style=for-the-badge" alt="700+ test scenarios" />
-<img src="https://img.shields.io/badge/Automated_Runs-50%2B-2EAD33?style=for-the-badge" alt="50+ automated runs" />
-<br>
 <img src="https://img.shields.io/badge/Public_Test_Suite-24_Tests-2EAD33?style=for-the-badge" alt="24 public tests" />
+<img src="https://img.shields.io/badge/Bugs_Reported-2-2EAD33?style=for-the-badge" alt="2 bugs reported" />
+<img src="https://img.shields.io/badge/CI-GitHub_Actions_%2B_Docker-2EAD33?style=for-the-badge" alt="GitHub Actions and Docker CI" />
 
 </div>
 
@@ -20,46 +19,42 @@
 
 ## About
 
-I'm a Software Quality Engineer (SDET) at Zinnia, where I build UI and API test automation with Playwright and TypeScript for enterprise platforms. A bug that slips through there can mean a failed transaction or a wrong document, so most of my tests check the data behind the screen, not just the screen.
+I'm a Software Quality Engineer (SDET) at Zinnia, building UI and API test automation with Playwright and TypeScript for enterprise platforms. A bug that slips through there can mean a failed transaction or a wrong document, so most of my tests check the data behind the screen, not just the screen.
 
-I joined Zinnia as a Business Analyst Intern before moving into SDET work. That's where I picked up the habit of asking why a feature exists before testing how it works.
+I started at Zinnia as a Business Analyst Intern, which is where I picked up the habit of asking why a feature exists before testing how it works.
 
 ## What I Work On
 
-- **Playwright + TypeScript automation.** Building a modular, data-driven framework that runs hundreds of UI and API scenarios across multiple product domains, integrated with Jenkins for on-demand regression testing.
-- **Authentication and workflows.** Automating SAML SSO, OAuth and multi-step API authentication flows end to end, including transaction status and document generation.
+- **UI and API automation.** A modular, data-driven Playwright + TypeScript framework that runs hundreds of scenarios across multiple product domains, wired into Jenkins for on-demand regression.
+- **Authentication and workflows.** SAML SSO, OAuth and multi-step API authentication flows, tested end to end.
 - **Self-healing tests.** A rule-based field-mapping engine with an LLM-assisted fallback, so tests stay resilient to UI changes.
-- **Spec-compliance validation.** Automated validation with discrepancy detection and field-level auditing, reported through Allure and dashboards.
-
-**Earlier, as a Business Analyst Intern:** turned requirements into product enhancements across several sprint releases, and worked with QA to validate API endpoints using Postman and SQL, with JMeter performance checks ahead of UAT.
+- **Spec-compliance validation.** Automated checks with discrepancy detection and field-level auditing, reported through Allure and dashboards.
 
 ## How I Work
 
-- **I use AI where it's reliable and keep it in check where it isn't.** In my self-healing work, deterministic rules run first, the LLM only handles what they can't resolve, and every learned mapping is saved so runs stay repeatable. An AI fix should never hide a real failure.
-- **When a test is flaky, I find the cause.** A UI test that failed on slow cold starts now waits for the real API response instead of a fixed delay.
-- **Failures should explain themselves.** My failed runs keep a trace and a screenshot, so whoever picks one up can debug it without asking me.
-- **I report bugs the way I'd want to receive them.** Each one has steps to reproduce, expected and actual results, and the root cause when I can find it.
+- **AI with discipline.** Deterministic rules run first, the LLM is only a fallback, and an AI fix should never hide a real failure.
+- **Flaky tests get a root cause.** A UI test that failed on slow cold starts now waits for the real API response instead of a fixed delay.
+- **Failures explain themselves.** Failed runs keep a trace and a screenshot, and every bug I report has repro steps, expected and actual results, and the root cause when I can find it.
 
 ## Tech Stack
 
 | Area | Tools |
 |---|---|
 | **Test Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white) |
-| **AI in Testing** | LLM-assisted self-healing · Rule-first, AI-fallback design · Human review gates for AI output |
-| **CI & Reporting** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-5C6BC0?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **AI in Testing** | LLM-assisted self-healing · Rule-first, AI-fallback design · Human review gates |
+| **CI & Reporting** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Allure](https://img.shields.io/badge/Allure_Report-5C6BC0?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | **Development** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Workflow** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/Agile%2FScrum-172B4D?style=for-the-badge) |
-| **Fundamentals** | REST APIs · Page Object Model · OOP · DBMS · Operating Systems · System Design |
+| **Fundamentals** | REST APIs · Page Object Model · OOP · DBMS · System Design |
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | **LocalEstate Playwright Tests**<br>[Code](https://github.com/VedantVivek/localestate-playwright-tests) · [CI](https://github.com/VedantVivek/localestate-playwright-tests/actions) | Public test suite for my LocalEstate app: 24 UI and API tests with Page Objects and fixtures, running on every push and pull request through GitHub Actions and in a Docker container. Found 2 real bugs in the mortgage API and reported them as [GitHub issues](https://github.com/VedantVivek/localEstate/issues). | Playwright<br>TypeScript<br>GitHub Actions<br>Docker |
-| **Nexora Requirements Assistant**<br>[Code](https://github.com/VedantVivek/nexora-requirements-assistant) · [Live](https://nexora-requirements-assistant.vercel.app) | AI-assisted requirements drafting assistant with a human review gate, so model output is checked by a person before it's used. | Next.js<br>TypeScript<br>Anthropic SDK |
-| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event discovery and booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | Next.js<br>TypeScript<br>Stripe |
-| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API covering properties, favorites, tours, reviews, and mortgage calculations, plus session-based auth and MongoDB persistence on Vercel. | Node.js<br>Express<br>MongoDB |
+| **Nexora Requirements Assistant**<br>[Code](https://github.com/VedantVivek/nexora-requirements-assistant) · [Live](https://nexora-requirements-assistant.vercel.app) | AI-assisted requirements drafting with a human review gate, so model output is checked by a person before it's used. | Next.js<br>TypeScript<br>Anthropic SDK |
+| **Event Dazzle**<br>[Code](https://github.com/VedantVivek/Event_Finder) · [Live](https://event-finder-dusky.vercel.app) | Event booking with live Ticketmaster and Bushdrum feeds across 7 Indian cities, 3-tier zone-based tickets, Stripe and UPI payments, and email OTP login. | Next.js<br>TypeScript<br>Stripe |
+| **LocalEstate**<br>[Code](https://github.com/VedantVivek/localEstate) · [Live](https://local-estate-main.vercel.app) | Real-estate marketplace with a 10-endpoint Express REST API, session-based auth and MongoDB persistence on Vercel. | Node.js<br>Express<br>MongoDB |
 
 ## Background
 
