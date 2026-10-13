@@ -10,10 +10,9 @@
 <a href="https://www.geeksforgeeks.org/profile/vedantvixfkm"><img src="https://img.shields.io/badge/GfG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 
 <img src="https://img.shields.io/badge/Test_Scenarios-700%2B-2EAD33?style=for-the-badge" alt="700+ test scenarios" />
-<img src="https://img.shields.io/badge/Forms_Validated-645-2EAD33?style=for-the-badge" alt="645 forms validated" />
-<br>
-<img src="https://img.shields.io/badge/Self--Healing_Mappings-167-2EAD33?style=for-the-badge" alt="167 self-healing mappings" />
 <img src="https://img.shields.io/badge/Automated_Runs-50%2B-2EAD33?style=for-the-badge" alt="50+ automated runs" />
+<br>
+<img src="https://img.shields.io/badge/Public_Test_Suite-24_Tests-2EAD33?style=for-the-badge" alt="24 public tests" />
 
 </div>
 
@@ -25,14 +24,14 @@ I'm a Software Quality Engineer (SDET) at Zinnia, where I build UI and API test 
 
 I joined Zinnia as a Business Analyst Intern before moving into SDET work. That's where I picked up the habit of asking why a feature exists before testing how it works.
 
-## What I Work On at Zinnia
+## What I Work On
 
-- **Playwright + TypeScript framework.** Architected a modular framework executing 700+ Excel-driven scenarios across 4 domains, integrated with Jenkins for on-demand regression testing.
-- **Authentication and workflows.** Automated SAML SSO, OAuth and multi-step API authentication workflows, validating end-to-end transaction lifecycles, status updates and document generation.
-- **Self-healing field mapping.** Designed a reusable rule-based field-mapping engine across 15+ domains with persistent learning and an LLM-assisted self-healing fallback, accumulating 167 learned mappings.
-- **Spec-compliance validation.** Engineered automated validation across 645 generated forms and 29 UAT transactions, with discrepancy detection, field-level auditing and Allure and dashboard reporting across 50+ runs.
+- **Playwright + TypeScript automation.** Building a modular, data-driven framework that runs hundreds of UI and API scenarios across multiple product domains, integrated with Jenkins for on-demand regression testing.
+- **Authentication and workflows.** Automating SAML SSO, OAuth and multi-step API authentication flows end to end, including transaction status and document generation.
+- **Self-healing tests.** A rule-based field-mapping engine with an LLM-assisted fallback, so tests stay resilient to UI changes.
+- **Spec-compliance validation.** Automated validation with discrepancy detection and field-level auditing, reported through Allure and dashboards.
 
-**Earlier, as a Business Analyst Intern:** turned requirements into 8+ product enhancements across 3+ sprint releases, and worked with QA to validate 15+ API endpoints using Postman and SQL, with JMeter performance checks ahead of UAT.
+**Earlier, as a Business Analyst Intern:** turned requirements into product enhancements across several sprint releases, and worked with QA to validate API endpoints using Postman and SQL, with JMeter performance checks ahead of UAT.
 
 ## How I Work
 
